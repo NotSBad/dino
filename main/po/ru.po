@@ -951,7 +951,7 @@ msgstr ""
 
 #: main/src/ui/conversation_content_view/conversation_item_skeleton.vala:195
 msgid "Read"
-msgstr ""
+msgstr "Прочитано"
 
 #: main/src/ui/conversation_content_view/subscription_notification.vala:48
 msgid "This contact would like to add you to their contact list"
